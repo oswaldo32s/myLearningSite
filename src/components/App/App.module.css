@@ -1,0 +1,51 @@
+.appHeader {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.logo {
+  align-items: center;
+  display: flex;
+  gap: 0.5rem;
+  padding: 1rem 2rem;
+}
+
+.logo_h1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav_ul {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 10rem;
+
+}
+
+.footerLeft {
+  display: flex;
+}
+
+.footerRight {
+  display: flex;
+}
